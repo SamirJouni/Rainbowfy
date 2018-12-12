@@ -1,0 +1,45 @@
+{
+  "name": "react-rainbowfy",
+  "version": "1.0.0",
+  "description": "Rainbowfy any text you want using this react component. The animation is very catchy.",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack --mode production",
+	"no-defaults": "webpack --mode none",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirJouni/Glitchify.git"
+  },
+  "keywords": [
+    "Rainbowfy",
+    "Rainbow",
+    "Animation",
+    "React"
+  ],
+  "author": "Samir Jouni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamirJouni/Rainbowfy/issues"
+  },
+  "homepage": "https://github.com/SamirJouni/Rainbowfy#readme",
+  "dependencies": {
+    "styled-components": "^4.1.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-styled-components": "^1.9.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "install": "^0.12.2",
+    "npm": "^6.5.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
