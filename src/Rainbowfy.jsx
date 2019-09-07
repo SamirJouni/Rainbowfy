@@ -21,8 +21,10 @@ const Rainbowfy = ({ children, font, fontSize, fontWeight}) => {
 			rgb(255, 206, 51),
 			rgb(112, 183, 76)
 		);
-		background-clip: text;
 		-webkit-text-fill-color: transparent;
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
 		animation: 2s linear 0s infinite normal none running ${rainbow};
 	`;
 	return <Rainbowed>{children}</Rainbowed>;
