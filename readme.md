@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/react-rainbowfy.svg)](https://badge.fury.io/js/react-rainbowfy)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/SamirJouni)
 
 # RAINBOWFY
 
