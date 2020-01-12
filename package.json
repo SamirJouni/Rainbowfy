@@ -1,6 +1,6 @@
 {
   "name": "react-rainbowfy",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Rainbowfy any text you want using this react component. The animation is very catchy.",
   "main": "build/index.js",
   "scripts": {
